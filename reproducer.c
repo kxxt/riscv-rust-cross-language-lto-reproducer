@@ -1,6 +1,6 @@
 extern void hello();
 
-int main () {
+int test () {
     hello();
     return 0;
 }
